@@ -1,0 +1,68 @@
+{
+    "execution_time": "0.27", 
+    "tests": [
+        {
+            "score": 1, 
+            "max_score": 1, 
+            "name": "Test Obstacle"
+        }, 
+        {
+            "score": 1, 
+            "max_score": 1, 
+            "name": "Test Point2D"
+        }, 
+        {
+            "score": 1, 
+            "max_score": 1, 
+            "name": "Test UAV2D"
+        }, 
+        {
+            "score": 1, 
+            "max_score": 1, 
+            "name": "Test corner transforms"
+        }, 
+        {
+            "score": 1, 
+            "max_score": 1, 
+            "name": "Test World2D"
+        }, 
+        {
+            "score": 1, 
+            "max_score": 1, 
+            "name": "Test world2d distance cost"
+        }, 
+        {
+            "score": 1, 
+            "max_score": 1, 
+            "name": "Test CHOMPTrajectory"
+        }, 
+        {
+            "score": 1, 
+            "max_score": 1, 
+            "name": "Test Obstacles cost on trajectory with no obstacles"
+        }, 
+        {
+            "score": 1, 
+            "max_score": 1, 
+            "name": "Test Obstacles cost on trajectory with obstacles"
+        }, 
+        {
+            "score": 1, 
+            "max_score": 1, 
+            "name": "Test Obstacles cost on trajectory with obstacles"
+        }, 
+        {
+            "score": 1, 
+            "max_score": 1, 
+            "name": "Test Smoothness cost on trajectory"
+        }, 
+        {
+            "score": 1, 
+            "max_score": 1, 
+            "name": "Test CHOMPWaypoint"
+        }
+    ], 
+    "score": 12, 
+    "visibility": "visible", 
+    "leaderboard": []
+}
